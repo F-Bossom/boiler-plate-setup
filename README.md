@@ -1,4 +1,4 @@
-#Boiler plate setup
+# Boiler plate setup
 
 - Created my HTML, css, and js files
 - added boiler plate code
